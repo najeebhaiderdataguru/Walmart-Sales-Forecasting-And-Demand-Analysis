@@ -3,8 +3,6 @@ In this repository is a step-by-step outline you can follow in your Jupyter Note
 Walmart Sales Forecasting And Demand Analysis
 Below is a step-by-step outline we follow in our Jupyter Notebook to perform "Walmart Sales Forecasting And Demand Analysis" using Python:
 
-Below is a step-by-step outline you can follow in your Jupyter Notebook to perform "Walmart Sales Forecasting And Demand Analysis" using Python:
-
 ### 1. Data Import and Initial Inspection
 
 Load the dataset (e.g., CSV file) into a Pandas DataFrame.
